@@ -1,70 +1,74 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project Name 
+Math magicians App.
 
-## Available Scripts
+# Description of project.
+Math magicians setup using react.
 
-In the project directory, you can run:
+## Project web demo link. 
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Built With 
+- Html. 
+- Css. 
+- JS.
+- Webpark.
+- Bsbelrc
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Website link: 
 
-### `npm test`
+# Getting starting 
+To get a local copy up and running follow these simple example steps:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Prerequisites
+ Vscode. 
+ must have git installed.
 
-### `npm run build`
+### Setup
+If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[Download the ZIP from this location]( https://github.com/eerapheal/Math-App/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+git clone  https://github.com/eerapheal/Math-App.git
+- Once the files are on your machine, open the _todo-list_ folder in [Visual Studio Code](https://code.visualstudio.com/), and follow the steps in Installation & Set Up
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠 Installation & Set Up
 
-### `npm run eject`
+#### 1. Install Node Modules
+   
+   npx create-react-app my-app
+   cd my-app
+   
+   #### 2. Start the development server
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   ```sh
+   npm start
+3. Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🚀 Building and Running for Production
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Generate a full static production build
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   ```sh
+   npm run build
 
-## Learn More
+Author1 Ekpenisi Erue Raphael.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [GitHub](https://github.com/eerapheal); 
+- [Twitter](https://twitter.com/ekpenisiraphael); 
+- [LinkedIn](https://www.linkedin.com/in/ekpenisi-e-raphael-9678a221a/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# 🤝 Contributing
+ Contributions, issues, and feature requests are welcome! Feel free to check the [issues page]Fork the Project Create your Feature Branch (git checkout -b 'branchname') Commit your Changes (git commit -m 'Add some branchname') Push to the Branch (git push origin branchname) Open a Pull Request Feel free to check the
 
-### Code Splitting
+ ## Deployment
+  Push changes to a branch. Wait for the build to pass on our CI server. Tell Hubot to deploy it. Verify that the changes work and fix any problems that come up. Merge the branch into master.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Show your support 
+Give a ⭐️ if you like this project!
 
-### Analyzing the Bundle Size
+## Acknowledgments 
+MICROVERSE and My Team.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+License This project is MIT licensed.
