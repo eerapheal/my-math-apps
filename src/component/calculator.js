@@ -5,8 +5,8 @@ class Calculator extends Component {
   render() {
     return (
       <div className="container">
-        <div className="wrapper">
-          <div className="display">0</div>
+        <div className="mainDiv">
+          <div className="inputiv">0</div>
           <div className="btn grey">AC</div>
           <div className="btn grey">+/-</div>
           <div className="btn grey">%</div>
@@ -23,7 +23,7 @@ class Calculator extends Component {
           <div className="btn grey">2</div>
           <div className="btn grey">3</div>
           <div className="btn orange">+</div>
-          <div className="btn grey span">0</div>
+          <div className="btn grey zero">0</div>
           <div className="btn grey">.</div>
           <div className="btn orange">=</div>
         </div>
