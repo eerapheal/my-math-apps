@@ -15,11 +15,7 @@ const Calculator = () => {
   return (
     <div className="container">
       <div className="mainDiv">
-        <button className="inputiv" type="button">
-          {total}
-          {operation}
-          {next}
-        </button>
+        <button className="inputiv" type="button">{total}{operation}{next}</button>
         <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">AC</button>
         <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">+/-</button>
         <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">%</button>
