@@ -56,3 +56,12 @@ body {
   grid-column: 1 / span 2;
 }
 
+.orange:hover {
+  background-color: #fff;
+  color: #f00;
+}
+
+.grey:hover {
+  background-color: #fff;
+  color: #f00;
+}
