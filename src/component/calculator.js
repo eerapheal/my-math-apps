@@ -22,7 +22,7 @@ class Calculator extends Component {
           <button className="btn grey" onClick={this.handleClick} type="submit">AC</button>
           <button className="btn grey" onClick={this.handleClick} type="submit">+/-</button>
           <button className="btn grey" onClick={this.handleClick} type="submit">%</button>
-          <button className="btn orange" onClick={this.handleClick} type="submit">/</button>
+          <button className="btn orange" onClick={this.handleClick} type="submit">÷</button>
           <button className="btn grey" onClick={this.handleClick} type="submit">7</button>
           <button className="btn grey" onClick={this.handleClick} type="submit">8</button>
           <button className="btn grey" onClick={this.handleClick} type="submit">9</button>
