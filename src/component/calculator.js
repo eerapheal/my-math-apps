@@ -14,6 +14,7 @@ const Calculator = () => {
 
   return (
     <div className="container">
+      <h5>wendy calculator</h5>
       <div className="mainDiv">
         <button className="inputiv" type="button">{total}{operation}{next}</button>
         <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">AC</button>
