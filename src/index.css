@@ -7,15 +7,16 @@
 body {
   min-height: 100vh;
   font-size: 40px;
-  background-image: linear-gradient(100deg, rgb(233, 150, 150), rgb(189, 178, 178), rgb(236, 115, 115));
+  background-image: linear-gradient(100deg, rgb(123, 247, 240), rgb(16, 235, 224), rgb(10, 214, 250));
   background-repeat: no-repeat;
   background-size: cover;
+  background-color: transparent;
 }
 
 .math {
   font-size: 34px;
   font-weight: 600;
-  color: #fff;
+  color: #ff0098;
 }
 
 .inputiv {
@@ -32,7 +33,7 @@ body {
 .container {
   display: flex;
   justify-content: space-between;
-  padding: 85px;
+  padding: 125px;
 }
 
 .inpuiv {

@@ -4,6 +4,8 @@ justify-content: space-between;
 align-items: center;
 min-height: 72px;
 background-color: #0f0f09;
+position: fixed;
+min-width: 100vw;
 }
 
 .logo {
