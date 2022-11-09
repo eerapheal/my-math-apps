@@ -14,28 +14,30 @@ const Calculator = () => {
 
   return (
     <div className="container">
-      <h5>wendy calculator</h5>
+      <h1 className="math">Let do some Math</h1>
       <div className="mainDiv">
-        <button className="inputiv" type="button">{total}{operation}{next}</button>
-        <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">AC</button>
-        <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">+/-</button>
-        <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">%</button>
-        <button className="btn orange" onClick={(event) => handleClick(event, state, setter)} type="button">÷</button>
-        <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">7</button>
-        <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">8</button>
-        <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">9</button>
-        <button className="btn orange" onClick={(event) => handleClick(event, state, setter)} type="button">x</button>
-        <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">4</button>
-        <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">5</button>
-        <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">6</button>
-        <button className="btn orange" onClick={(event) => handleClick(event, state, setter)} type="button">-</button>
-        <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">1</button>
-        <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">2</button>
-        <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">3</button>
-        <button className="btn orange" onClick={(event) => handleClick(event, state, setter)} type="button">+</button>
-        <button className="btn grey zero" onClick={(event) => handleClick(event, state, setter)} type="button">0</button>
-        <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">.</button>
-        <button className="btn orange" onClick={(event) => handleClick(event, state, setter)} type="button">=</button>
+        <div className="inpuiv">
+          <button className="inputiv" type="button">{total}{operation}{next}</button>
+          <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">AC</button>
+          <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">+/-</button>
+          <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">%</button>
+          <button className="btn orange" onClick={(event) => handleClick(event, state, setter)} type="button">÷</button>
+          <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">7</button>
+          <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">8</button>
+          <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">9</button>
+          <button className="btn orange" onClick={(event) => handleClick(event, state, setter)} type="button">x</button>
+          <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">4</button>
+          <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">5</button>
+          <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">6</button>
+          <button className="btn orange" onClick={(event) => handleClick(event, state, setter)} type="button">-</button>
+          <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">1</button>
+          <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">2</button>
+          <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">3</button>
+          <button className="btn orange" onClick={(event) => handleClick(event, state, setter)} type="button">+</button>
+          <button className="btn grey zero" onClick={(event) => handleClick(event, state, setter)} type="button">0</button>
+          <button className="btn grey" onClick={(event) => handleClick(event, state, setter)} type="button">.</button>
+          <button className="btn orange" onClick={(event) => handleClick(event, state, setter)} type="button">=</button>
+        </div>
       </div>
     </div>
   );
