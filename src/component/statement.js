@@ -1,6 +1,11 @@
+import React from 'react';
+
 const Statement = () => (
   <>
-    <h2>h</h2>
+    <p>
+      Mathematics is not about numbers, equations, computations or algorithms: it is
+      about understanding. -William Paul Thurston
+    </p>
   </>
 );
 
