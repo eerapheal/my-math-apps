@@ -10,7 +10,6 @@ body {
   background-image: linear-gradient(100deg, rgb(123, 247, 240), rgb(16, 235, 224), rgb(10, 214, 250));
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: transparent;
 }
 
 .math {
