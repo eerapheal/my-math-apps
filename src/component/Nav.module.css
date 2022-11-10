@@ -1,0 +1,30 @@
+.navItems {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 72px;
+  background-color: #0f0f09;
+  position: fixed;
+  min-width: 100vw;
+}
+
+.logo {
+  font-size: 34px;
+  font-weight: 600;
+  color: rgb(241, 201, 201);
+  padding-left: 35px;
+}
+
+.navList {
+  display: flex;
+  gap: 35px;
+  padding-right: 35px;
+}
+
+.navLinks {
+  font-size: 28px;
+  font-weight: 600;
+  list-style: none;
+  text-decoration: none;
+  color: rgb(247, 205, 205);
+}
