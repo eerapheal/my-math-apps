@@ -1,74 +1,69 @@
+# Math-Magician
 
-# Project Name 
-Math magicians App.
+This is a calculator app build by react library.
 
-# Description of project.
-Math magicians setup using react.
+![SCREENSHOT](./src/component/images/Image20221110180137.png)
 
-## Project web demo link. 
+## Built With
+
+- ReactJS
+
+## Video Walkthrough
 
 
-## Built With 
-- Html. 
-- Css. 
-- JS.
-- Webpark.
-- Bsbelrc
 
-Website link: 
+## Get Live Demo
 
-# Getting starting 
-To get a local copy up and running follow these simple example steps:
+[Live Demo Netlify Link](https://glowing-naiad-81e0ba.netlify.app/)
 
-## Prerequisites
- Vscode. 
- must have git installed.
 
-### Setup
-If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
+## Clone and review it
 
-[Download the ZIP from this location]( https://github.com/eerapheal/Math-App/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+Run the following commands to clone and run it.
 
-```bash
-git clone  https://github.com/eerapheal/Math-App.git
-- Once the files are on your machine, open the _todo-list_ folder in [Visual Studio Code](https://code.visualstudio.com/), and follow the steps in Installation & Set Up
+### To clone the repository
 
-## 🛠 Installation & Set Up
+  `git clone https://github.com/eerapheal/my-math-apps.git`
 
-#### 1. Install Node Modules
-   
-   npx create-react-app my-app
-   cd my-app
-   
-   #### 2. Start the development server
+### To enter Directory
 
-   ```sh
-   npm start
-3. Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
+`cd my-math-apps`
 
-## 🚀 Building and Running for Production
+### To Install Packages
 
-1. Generate a full static production build
+`npm install`
 
-   ```sh
-   npm run build
+### To run project on local server
 
-Author1 Ekpenisi Erue Raphael.
+`npm start`
 
-- [GitHub](https://github.com/eerapheal); 
-- [Twitter](https://twitter.com/ekpenisiraphael); 
-- [LinkedIn](https://www.linkedin.com/in/ekpenisi-e-raphael-9678a221a/)
+### To run project tests
 
-# 🤝 Contributing
- Contributions, issues, and feature requests are welcome! Feel free to check the [issues page]Fork the Project Create your Feature Branch (git checkout -b 'branchname') Commit your Changes (git commit -m 'Add some branchname') Push to the Branch (git push origin branchname) Open a Pull Request Feel free to check the
+`npm test`
 
- ## Deployment
-  Push changes to a branch. Wait for the build to pass on our CI server. Tell Hubot to deploy it. Verify that the changes work and fix any problems that come up. Merge the branch into master.
+### To open project with vs code 
 
-## Show your support 
+`code .`
+
+## Authors
+
+👤 **Ekpenisi Erue Raphael**
+
+- GitHub: [@eerapheal](https://github.com/eerapheal)
+- Twitter: [@ekpenisiraphael](https://twitter.com/ekpenisiraphael)
+- LinkedIn: [ekpenisi-e-raphael-9678a221a](https://www.linkedin.com/in/ekpenisi-e-raphael-9678a221a/)
+
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
 Give a ⭐️ if you like this project!
 
-## Acknowledgments 
-MICROVERSE and My Team.
+## Acknowledgments
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
-License This project is MIT licensed.
+## 📝 License
+This project is [MIT](./MIT.md) licensed.
